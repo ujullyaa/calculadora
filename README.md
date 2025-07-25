@@ -1,7 +1,3 @@
-Claro, Júllya! Vamos montar um `README.md` completo e profissional para o seu projeto de **calculadora**. Abaixo está um modelo simples e eficaz, que você pode ajustar conforme desejar. Vou assumir que o projeto usa **HTML, CSS e JavaScript**.
-
----
-
 ### 📄 `README.md` para projeto Calculadora
 
 ````markdown
